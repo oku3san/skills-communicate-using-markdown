@@ -5,7 +5,15 @@
 
 ## h2 header
 
+```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
+
 ### h3 header
+``` javascript
+var myVar = "Hello, world!";
+```
 
 #### h4 header
 
