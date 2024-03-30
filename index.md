@@ -17,7 +17,7 @@ var myVar = "Hello, world!";
 
 #### h4 header
 
-- [ ] Turn on GitHub Pages
+- [x] Turn on GitHub Pages
 - [ ] Outline my portfolio
 - [ ] Introduce myself to the world
 
